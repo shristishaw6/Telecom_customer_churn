@@ -52,3 +52,12 @@ Identified relationships between contract type and churn
 Observed higher churn in month-to-month contracts
 
 Visualized impact of internet service and payment methods
+📈 Key Insights
+
+Customers with month-to-month contracts are more likely to churn
+
+Higher monthly charges increase churn probability
+
+Customers without long-term contracts show higher attrition
+
+Fiber optic internet users showed relatively higher churn
